@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "aboababdfsafafdsasdfaasdf123123123",
+      "text": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server 3 post",
+      "text": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server 4 post",
+      "text": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server 5 post",
+      "text": "typicode"
+    },
+    {
+      "title": "123",
+      "text": "123",
+      "id": 123
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alabama 1 user",
+      "email": "alabama1@nibba.com"
+    },
+    {
+      "id": 2,
+      "name": "Alabama 2 user",
+      "email": "alabama2@nibba.com"
+    },
+    {
+      "id": 3,
+      "name": "Alabama 3 user",
+      "email": "alabama3@nibba.com"
+    },
+    {
+      "id": 4,
+      "name": "Alabama 4 user",
+      "email": "alabama4@nibba.com"
+    },
+    {
+      "id": 5,
+      "name": "Alabama 5 user",
+      "email": "alabama5@nibba.com"
+    },
+    {
+      "id": 6,
+      "name": "Alabama 6 user",
+      "email": "alabama6@nibba.com"
+    }
+  ]
+}
